@@ -20,8 +20,8 @@ int main()
   	
   	SwapNum = lastDigit * (pow(10, count)) + (number * 10 + firstDigit);
   	
-	cout << "The First Digit in a Given Number    = " <<firstDigit; 
-	cout << "The Last Digit in a Given Number     = " << lastDigit; 
-	cout << "After Swapping First and Last Digit  = " << SwapNum; 	
+	cout << "\nThe First Digit in a Given Number    = " <<firstDigit; 
+	cout << "\nThe Last Digit in a Given Number     = " << lastDigit; 
+	cout << "\nAfter Swapping First and Last Digit  = " << SwapNum; 	
  	return 0;
 }
